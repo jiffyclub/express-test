@@ -7,8 +7,11 @@ of an Express route.
 [test_util.js](./test/test_util.js) is an example of testing a utility
 function.
 
-To run the tests make sure you have Mocha installed: `npm install -g mocha`.
-Then run `mocha` in the root directory of this repo.
+## Running Tests
+
+- Install local dependencies: `npm install`
+- Install Mocha CLI: `npm install -g mocha`.
+- Run `mocha` in the root directory of this repo.
 
 ## Libraries Used
 
