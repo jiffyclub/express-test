@@ -1,0 +1,20 @@
+{
+  "name": "express-test",
+  "version": "1.0.0",
+  "description": "Learning how to test Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "jiffyclub",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.1",
+    "lodash-fp": "^0.10.1"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5",
+    "supertest": "^1.0.1"
+  }
+}
